@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
 
-  url = "https://public.tableau.com/views/Sehat-IntelVisualization/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link"
+  url = "https://public.tableau.com/views/Sehat-IntelVisualization/MainParametersDistribution?:language=en&:display_count=y&:toolbar=n&:origin=viz_share_link"
   //   @ViewChild("vizContainer") vizContainer!: ElementRef;
 
   // viz: any;
